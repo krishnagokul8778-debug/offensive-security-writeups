@@ -31,6 +31,12 @@ the vulnerability, the exploitation steps and the fix.
 | [ssh-password-cracking](ssh-password-cracking.md) | Password cracking | Cracking an encrypted OpenSSH key |
 | [bruteforce](bruteforce.md) | Log forensics | Finding a successful brute force in access logs |
 
+## Full reports
+
+| Target | Type | Result |
+|---|---|---|
+| [DC-3 (VulnHub)](dc-3/) | Full penetration test report (PDF) | Root access; 20 findings |
+
 ## Note
 
 All challenges were solved in authorized CTF lab environments on PentestGarage.

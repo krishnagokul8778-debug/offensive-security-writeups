@@ -31,6 +31,14 @@ the vulnerability, the exploitation steps and the fix.
 | [ssh-password-cracking](ssh-password-cracking.md) | Password cracking | Cracking an encrypted OpenSSH key |
 | [bruteforce](bruteforce.md) | Log forensics | Finding a successful brute force in access logs |
 
+## Linux fundamentals
+
+A level-by-level series of Linux command-line challenges (filesystem navigation, permissions, `grep`/`find`/`strings`, pipes and redirection). Ongoing.
+
+| Series | Levels | Status |
+|---|---|---|
+| [Linux fundamentals](linux-fundamentals/) | 01–13 | 12 solved, 1 lab misconfigured (diagnosed and reported) |
+
 ## Full reports
 
 | Target | Type | Result |
@@ -39,4 +47,4 @@ the vulnerability, the exploitation steps and the fix.
 
 ## Note
 
-All challenges were solved in authorized CTF lab environments on PentestGarage.
+All challenges were solved in authorized CTF lab environments (PentestGarage and CICSA course labs).
